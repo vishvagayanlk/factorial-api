@@ -10,11 +10,19 @@
 
 If you would still prefer to do the installation manually, follow these steps:
 
-Clone the repo:
+#### Clone the repo:
 
 ```bash
 git clone https://github.com/wishwagayan/factorial-api.git
 cd factorial-api
+```
+#### Lets Instiliaize Nodejs
+```bash
+npm init
+```
+#### Now Run The Project in Dev
+```bash
+npm run dev
 ```
 ## Setup
 * **URL**
