@@ -4,7 +4,19 @@
  
  
  ![](Assest/postman_img.PNG)
+ 
+ 
+ ## Manual Installation
 
+If you would still prefer to do the installation manually, follow these steps:
+
+Clone the repo:
+
+```bash
+git clone https://github.com/wishwagayan/factorial-api.git
+cd factorial-api
+```
+## Setup
 * **URL**
 
   http://localhost:3000/api/math/{Number}
