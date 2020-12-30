@@ -3,7 +3,7 @@
  Using this API you can get Factorail of any given number 
  
  
- ![](Assest/postmon image.PNG)
+ ![](Assest/postmon%20image.PNG)
 
 * **URL**
 
